@@ -6,7 +6,7 @@ function App() {
     <>
       <h1 className="text-red-700">Salom hammaga</h1>
       <Button variant={"jaloliddin"}>Submit</Button>
-      <Button variant={"destructive"}>Register</Button>
+      <Button variant={"destructive"}>Register Now</Button>
     </>
   );
 }
